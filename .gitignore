@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+*.pdf
+API_KEY.txt
+*.txt
+!requirements.txt
+debug_*.py
+column_aware_extraction.py
+extraction_fix.py
+table_row_extraction.py
+rag_single.py
+rag_multi.py

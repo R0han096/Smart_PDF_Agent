@@ -1,0 +1,6 @@
+pdfplumber
+numpy
+faiss-cpu
+sentence-transformers
+groq>=0.30
+langgraph
